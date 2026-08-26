@@ -54,8 +54,3 @@ Right now I'm building **[Ordenla](https://ordenla.com)**, an offline-capable, t
 | **[Ordenla](https://ordenla.com)** | Multi-tenant SaaS point of sale for food-service businesses — counter POS, kitchen display system and owner dashboard. Offline-first, tablet-first. | Next.js App Router · TypeScript · real-time sync · multi-tenant auth |
 | **PR Review Bot** | GitHub App that reviews pull requests automatically: inline per-file suggestions, severity grading, batch autofix, two-stage verification pass. | Probot · Node.js · DeepSeek API |
 | **[Kasump](https://kasump.com)** | My studio — full-stack web projects for small businesses, from requirements to deployment and maintenance. | Next.js · PostgreSQL · Docker · VPS |
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=omarcea343&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarcea343&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
